@@ -99,7 +99,7 @@ padding: 0;
 }
 /* review area */
 .review-container{
-    margin: 148px 149px 137px 159px;
+    margin: 148px 149px 0px 159px;
     padding: 0;
     
 }
@@ -134,4 +134,50 @@ padding: 0;
 
 .avatar{
     display: flex;
+}
+/* tuch area */
+.Touch-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 150px 14px 150px;
+    padding: 71px 0;
+    gap: 115px;
+}
+
+.Touch-container h1{
+    font-size: 97px;
+    font-weight: bold;
+    color: #000000;
+    
+    
+   
+}
+form{
+    max-height: 425px;
+    max-width: 497px;
+    padding: 0;
+    margin: 0;
+
+}
+.form label{
+    font-size: 18px;
+    color: #000000;
+    font-weight: 500;
+}
+.input{
+    display: flex;
+    flex-direction: column;
+    margin: 19px 0;
+}
+.input input{
+    font-size: 20px;
+    max-height: 70px;
+    max-width: 497px;
+    padding: 20px 32px;
+    border-radius: 10px;
+}
+.tuch-btn{
+   height: 70px;
+   width: 497px; 
 }
