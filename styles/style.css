@@ -39,7 +39,6 @@ padding: 0;
 .banner-nav h1{
     font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
   font-style: normal;
   font-variation-settings: "wdth" 100;
     font-size: 34px;
@@ -197,6 +196,7 @@ form{
 .footer{
     text-align: center;
     background-color: #FFFFFF;
+    background-size: cover;
     padding: 104px 155px 103px 154px;
     margin: 0;
 }
@@ -206,8 +206,6 @@ form{
     color: #4E47FF;
     margin: 0;
     font-family: "Open Sans", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: <weight>;
     font-style: normal;
     font-variation-settings: "wdth" 100;
 }
