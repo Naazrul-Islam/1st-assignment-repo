@@ -181,3 +181,29 @@ form{
    height: 70px;
    width: 497px; 
 }
+/* footer area */
+.footer{
+    text-align: center;
+    background-color: #FFFFFF;
+    padding: 104px 155px 103px 154px;
+    margin: 0;
+}
+.footer h1{
+    font-size: 100px;
+    font-weight: 900px;
+    color: #4E47FF;
+    margin: 0;
+}
+.footer-link{
+    align-items: center;
+}
+footer a{
+    text-decoration: none;
+    margin: 48px;
+    color: #8987A1;
+    font-size: large;
+    
+}
+footer p{
+    color: #8987A1;
+}
